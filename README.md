@@ -1,6 +1,6 @@
-#presto/Browser mirrors by 4chan.
+#prestocore/Browser mirrors by 4chan.
 
-presto/Browser mirrors by 4chan. (github.com/operacore/browser)
+prestocore/Browser mirrors by 4chan. (github.com/prestocore/browser)
 
 Mirrors:
 - https://files.catbox.moe/4hzs77.gz
